@@ -11,14 +11,14 @@ body {
     padding-bottom: 2rem;
 }
 
-a {
-    color: #000;
-    text-decoration: none;
-    background-image: linear-gradient(#000,#A37C40), linear-gradient(#ccc,#ccc);
-    background-position: 0% 100%, 0 100%;
-    background-repeat: no-repeat;
-    background-size: 0% 2px, 100% 1px;
-    transition: background-size .3s;
+.list-nav ul li::after {
+    background: var(--yellow);
+    display: block;
+    content: "";
+    height: 3px;
+    margin: auto;
+    transition: 0.5s;
+    width: 0%;
 }
 
 li {

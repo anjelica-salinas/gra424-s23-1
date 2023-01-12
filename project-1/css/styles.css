@@ -42,7 +42,7 @@ a:hover {
 
 .rectangle-1 {
     display: flex;
-    border: 0.25pt solid rgb(0, 0, 0);
+    border: 0.25pt solid rgb(182, 182, 182);
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;
@@ -50,7 +50,7 @@ a:hover {
 
 .rectangle-2 {
     display: flex;
-    border: 0.25pt solid rgb(0, 0, 0);
+    border: 0.25pt solid rgb(182, 182, 182);
     width: 42.857143vw;
     height: 42.857143vh;
     margin: auto;
@@ -66,7 +66,7 @@ a:hover {
 
 .square-4 {
     display: flex;
-    border: 0.25pt solid rgb(0, 0, 0);
+    border: 0.25pt rgb(182, 182, 182);
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;

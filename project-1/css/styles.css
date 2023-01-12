@@ -9,20 +9,13 @@ body {
 
 .back-button {
     padding-bottom: 2rem;
+    font-size: 1rem;
 }
 
-.list-nav ul li::after {
-    background: var(--yellow);
-    display: block;
-    content: "";
-    height: 3px;
-    margin: auto;
-    transition: 0.5s;
-    width: 0%;
-}
-
-li {
+ul {
     list-style-type: none;
+    font-size: 2rem;
+    
 }
 
 .container {

@@ -12,7 +12,6 @@ body {
         font-size: 1rem;
 }
 
-
 ul {
     list-style-type: none;
     font-size: 2rem;
@@ -32,36 +31,36 @@ a:hover {
 .container-1 {
     display: flex;
     width: 100vw;
-    height: 100vw;
+    height: 100vh;
 }
 
 .container-2 {
     display: flex;
     width: 100vw;
-    height: 100vw;
+    height: 100vh;
 }
 
-.square-1 {
+.rectangle-1 {
     display: flex;
     border: 0.25pt solid rgb(0, 0, 0);
     width: 71.428571vw;
-    height: 71.428571vw;
+    height: 71.428571vh;
     margin: auto;
 }
 
-.square-2 {
+.rectangle-2 {
     display: flex;
     border: 0.25pt solid rgb(0, 0, 0);
     width: 42.857143vw;
-    height: 42.857143vw;
+    height: 42.857143vh;
     margin: auto;
 }
 
-.square-3 {
+.rectangle-3 {
     display: flex;
     background-color: rgb(0, 0, 0);
     width: 14.285714vw;
-    height: 14.285714vw;
+    height: 14.285714vh;
     margin: auto;
 }
 
@@ -69,7 +68,7 @@ a:hover {
     display: flex;
     border: 0.25pt solid rgb(0, 0, 0);
     width: 71.428571vw;
-    height: 71.428571vw;
+    height: 71.428571vh;
     margin: auto;
 }
 
@@ -77,7 +76,7 @@ a:hover {
     display: flex;
     background-color: rgb(0, 0, 0);
     width: 42.857143vw;
-    height: 42.857143vw;
+    height: 42.857143vh;
     margin: auto;
 }
 
@@ -85,6 +84,6 @@ a:hover {
     display: flex;
     background-color: rgb(255, 255, 255);
     width: 14.285714vw;
-    height: 14.285714vw;
+    height: 14.285714vh;
     margin: auto;
 }

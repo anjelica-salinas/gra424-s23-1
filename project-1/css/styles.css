@@ -66,7 +66,7 @@ a:hover {
 
 .square-4 {
     display: flex;
-    border: 0.25pt rgb(211, 211, 211);
+    background-color: black;
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;
@@ -74,7 +74,7 @@ a:hover {
 
 .square-5 {
     display: flex;
-    background-color: rgb(0, 0, 0);
+    border: 0.25pt rgb(211, 211, 211);
     width: 42.857143vw;
     height: 42.857143vh;
     margin: auto;

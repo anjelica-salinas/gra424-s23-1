@@ -21,6 +21,10 @@ a {
     transition: background-size .3s;
 }
 
+li {
+    list-style-type: none;
+}
+
 .container {
     display: flex;
     width: 100vw;

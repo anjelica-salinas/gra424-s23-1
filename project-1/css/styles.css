@@ -139,6 +139,17 @@ a:hover {
     height: 80vh; 
 }
 
+/* 4 as Three  */
+
+.four-as-three {
+    display: flex;
+    margin: auto;
+    padding-top: 8rem;
+    justify-content: center;
+    width: 80vw;
+    height: 80vh; 
+}
+
 /* Texture  */
 
 .texture-1 {

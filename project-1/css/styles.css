@@ -52,7 +52,7 @@ a:hover {
 
 .rectangle-2 {
     display: flex;
-    border: .25pt solid rgb(102, 102, 102);
+    border: 0.25pt solid rgb(211, 211, 211);
     width: 42.857143vw;
     height: 42.857143vh;
     margin: auto;

@@ -98,38 +98,11 @@ a:hover {
 
 /* Line Interaction  */
 
-.line-1 {
+.lines {
     display: flex;
     margin: auto;
     border: .25pt solid rgb(102, 102, 102);
     /* padding-top: 8rem; */
-    justify-content: center;
-    width: 71.428571vw;
-    height: 71.428571vh;
-}
-
-.line-2 {
-    display: flex;
-    margin: auto;
-    padding-top: 8rem;
-    justify-content: center;
-    width: 71.428571vw;
-    height: 71.428571vh;;
-}
-
-.line-4 {
-    display: flex;
-    margin: auto;
-    padding-top: 8rem;
-    justify-content: center;
-    width: 71.428571vw;
-    height: 71.428571vh;
-}
-
-.line-3 {
-    display: flex;
-    margin: auto;
-    padding-top: 8rem;
     justify-content: center;
     width: 71.428571vw;
     height: 71.428571vh;

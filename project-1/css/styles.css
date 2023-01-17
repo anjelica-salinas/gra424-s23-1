@@ -68,7 +68,7 @@ a:hover {
 
 .square-4 {
     display: flex;
-    bborder: .25pt solid rgb(102, 102, 102);
+    border: .25pt solid rgb(102, 102, 102);
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;

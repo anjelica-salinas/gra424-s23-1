@@ -44,7 +44,7 @@ a:hover {
 
 .rectangle-1 {
     display: flex;
-    border: 0.25pt solid rgb(211, 211, 211);
+    border: .25pt solid rgb(102, 102, 102);
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;

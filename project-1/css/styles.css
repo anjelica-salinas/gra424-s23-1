@@ -90,12 +90,19 @@ a:hover {
     margin: auto;
 }
 
+.all-contained {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
 /* Line Interaction  */
 
 .line-1 {
     display: flex;
     margin: auto;
-    padding-top: 8rem;
+    border: .25pt solid rgb(102, 102, 102);
+    /* padding-top: 8rem; */
     justify-content: center;
     width: 71.428571vw;
     height: 71.428571vh;

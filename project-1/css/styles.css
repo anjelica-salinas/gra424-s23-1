@@ -13,6 +13,14 @@ body {
 }
 
 
+
+.header {
+    display: flex;
+    margin-bottom: 5rem;
+    margin-top: 3rem;
+}
+
+
 .back-button {
         padding-bottom: 3rem;
         font-size: 1rem;

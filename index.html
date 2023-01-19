@@ -14,20 +14,32 @@
 
 </head>
 
-<body class="home">
-    <header>
-        <h1>Anjelica <br> Guzman</h1>
-    </header>
+<body>
+  <nav role="navigation">
+    <div id="menuToggle">
+      <!--
+      Reminder! A fake / hidden checkbox is used as click reciever,
+      so you can use the :checked selector on it.
+      -->
+      <input type="checkbox" /> 
+      
+      <span></span>
+      <span></span>
+      <span></span>
+      
+      <ul id="menu">
+        <a href="#"><li>Home</li></a>
+        <a href="/project-1/index.html"><li>Project 1</li></a>
+        <a href="#"><li>Project 2</li></a>
+        <a href="#"><li>Project 3</li></a>
+      </ul>
+    </div>
+  </nav>
 
-  <h1>Anjelica Salinas - GRA 424</h1>
-  <p>This will be my course website for the Spring semester.</p>
-  <ul>
-    <!-- <li><a href="/project-2" title="Project 2">Project 2</a></li> -->
-    <li><a href="project-1/index.html" title="Project 1">Project 1</a></li>
-    <li>Project 2</li>
-    <li>Project 3</li>
-    <li>Project 4</li>
-  </ul>
+<div class="wrapper">
+  <h1 class="hero-heading">Howdy</h1>
+  <p>This is Anjelica Guzman's GRA 424 Website that documents all coding and motion projects from my the spring 2023 semester at Arizona State Universities' Visual Communication Program. Last semester weee!</p>
+</div>
 
   <!-- Load Scripts -->
   <script src="js/scripts.js"></script>
